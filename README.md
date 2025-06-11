@@ -90,7 +90,7 @@ After demonstration example compilation, perform the following steps to flashing
 <img src="./images/output_image.png" width="800" /><BR>
 More details can be found in:
 
-refer to [Steps to use the Qt Design Studio using the ModusToolbox&trade; ](https://www.infineon.com/dgdlac/?fileId=8ac78c8c9715623e01973b3fe6e520a4)
+refer to [Steps to use the Qt Design Studio using the ModusToolbox&trade; ](https://www.infineon.com/dgdl/?fileId=8ac78c8c9715623e01973b3fe6e520a4)
 
 ## References  
 
@@ -109,7 +109,7 @@ More code examples can be found on the GIT repository:
 - [TRAVEO&trade;T2G Code examples](https://github.com/orgs/Infineon/repositories?q=mtb-t2g-&type=all&language=&sort=)
 
 For additional trainings, visit our webpage:
-- [Steps to use the Qt Design Studio using the ModusToolbox&trade;](https://www.infineon.com/dgdlac/?fileId=8ac78c8c9715623e01973b3fe6e520a4)
+- [Steps to use the Qt Design Studio using the ModusToolbox&trade;](https://www.infineon.com/dgdl/?fileId=8ac78c8c9715623e01973b3fe6e520a4)
 
 - [TRAVEO&trade; T2G trainings](https://www.infineon.com/cms/en/product/microcontroller/32-bit-traveo-t2g-arm-cortex-microcontroller/32-bit-traveo-t2g-arm-cortex-for-cluster/traveo-t2g-cyt4dn/#!trainings)
 
